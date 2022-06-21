@@ -17,7 +17,6 @@ package trivera.core.simpleclass;
  * @author Trivera Technologies Tech Team.
  */
 
- /*
 public class Driver {
 
     public static void main(java.lang.String[] args) {
@@ -53,4 +52,3 @@ public class Driver {
         System.out.println("Name: " + name + " - Salary: " + salary);
     }
 }
-*/
